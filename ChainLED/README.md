@@ -1,6 +1,8 @@
 # ChainLED
 
-A Particle project named ChainLED
+A Particle project named ChainLED which uses the Chainable LED sensor for the Arduino
+
+This is another changes I am making to the file 
 
 ## Welcome to your project!
 
